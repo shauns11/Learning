@@ -1,1 +1,1 @@
-R and Stata files containing examples of longitudinal data analysis.
+This folder contains R and Stata files demonstrating examples of longitudinal data analysis.
