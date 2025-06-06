@@ -9,7 +9,7 @@ print(R.version.string)
 Macdrive<-
   "/Users/shaun/Library/CloudStorage/OneDrive-UniversityCollegeLondon/Learning/"
 UCLdrive<-
-  "C:/Users/rmjdshc/OneDrive - University College London/Learning/"
+  "C:/Users/xxxx/OneDrive - University College London/Learning/"
 folder<-
   "Longitudinal/01. Binary outcomes"  
 setwd(paste0(UCLdrive, folder))
